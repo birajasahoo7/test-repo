@@ -1,0 +1,4 @@
+create table tab1..
+create index idx1..
+insert..
+commit;
